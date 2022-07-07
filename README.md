@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phani91
 - 👀 I’m interested in ... automation and data science
 - 🌱 I’m currently learning ... python and rust for work
-- 💞️ I’m looking to collaborate on ... any pyrhon and rust beginner projects
+- 💞️ I’m looking to collaborate on ... any python and rust beginner projects
 - 📫 How to reach me ... phanindra9491@gmail.com
 
 <!---
